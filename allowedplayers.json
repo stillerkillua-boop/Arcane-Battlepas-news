@@ -1,7 +1,7 @@
 {
   "AllowedPlayers": [
-    "Kirito",
-    "Player2",
-    "Player3"
+    { "Id": "123e4567-e89b-12d3-a456-426614174000", "Username": "Kirito" },
+    { "Id": "223e4567-e89b-12d3-a456-426614174001", "Username": "Player2" },
+    { "Id": "323e4567-e89b-12d3-a456-426614174002", "Username": "Player3" }
   ]
 }
