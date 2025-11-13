@@ -1,27 +1,17 @@
 [
   {
-    "Title": "🎉 Neues Update verfügbar!",
-    "Content": "Wir haben viele neue Features hinzugefügt, darunter Dark Mode, verbessertes Dashboard und neue Achievements! Probier es direkt aus.",
+    "Title": "🎉 New Update Released!",
+    "Content": "We have added new features including Dark Mode, improved dashboard, and new achievements! Check it out now.",
     "Date": "2025-11-13"
   },
   {
-    "Title": "🛠 Server-Wartung",
-    "Content": "Am 15.11. wird unser Server für geplante Wartungsarbeiten offline sein. Bitte plane deine Spielzeit entsprechend.",
+    "Title": "🛠 Scheduled Maintenance",
+    "Content": "On 15.11, the server will be offline for maintenance. Please plan your playtime accordingly.",
     "Date": "2025-11-12"
   },
   {
-    "Title": "🌱 Tipps der Woche",
-    "Content": "Verwende die neue automatische Ernte-Funktion, um mehr Ressourcen zu sparen und deine Felder effizient zu verwalten.",
+    "Title": "💡 Tip of the Week",
+    "Content": "Use the new auto-harvest feature to save resources and manage your fields efficiently.",
     "Date": "2025-11-11"
-  },
-  {
-    "Title": "🚀 Event startet bald!",
-    "Content": "Das Halloween-Event beginnt am 31.10. Gewinne exklusive Skins und Belohnungen, indem du spezielle Quests abschließt!",
-    "Date": "2025-10-30"
-  },
-  {
-    "Title": "💡 Fun Fact",
-    "Content": "Wusstest du, dass das älteste bekannte Computerspiel aus dem Jahr 1958 stammt? Es heißt 'Tennis for Two'.",
-    "Date": "2025-11-10"
   }
 ]
